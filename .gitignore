@@ -280,5 +280,3 @@ Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/**
 /Engine/Plugins/Experimental/NNI/Source/ThirdParty/Deps/json/**
 /Engine/Plugins/Experimental/NNE/Source/ThirdParty/Deps/json/**
 
-# Add Default.uprojectdirs
-!Default.uprojectdirs
